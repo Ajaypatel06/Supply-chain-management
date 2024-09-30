@@ -1,0 +1,16 @@
+I am excited to share my recent project focused on analyzing the supply chain of a Fashion and Beauty startup, specifically in the makeup products sector. This project involved collecting, analyzing, and interpreting key data points related to product movement from suppliers to customers.
+
+Project Overview:
+The dataset consists of various features, including product type, pricing, availability, sales figures, customer demographics, stock levels, lead times, shipping details, supplier information, and more. The objective was to gain actionable insights into the supply chain processes, identify areas for optimization, and enhance overall efficiency.
+
+Tools and Technologies:
+Tableau: Utilized for creating interactive dashboards that visualize sales trends, stock levels, and customer demographics, enabling quick decision-making.
+Power BI: Developed comprehensive reports to analyze revenue generation, shipping costs, and product availability, facilitating data-driven insights for stakeholders.
+MySQL: Employed for data extraction and management, allowing for effective querying and manipulation of the dataset.
+Python: Utilized for data cleaning, preprocessing, and advanced analysis, including calculations of key performance indicators (KPIs) related to production and shipping.
+Key Highlights:
+Analyzed product sales trends across different demographics and regions to understand customer preferences.
+Evaluated stock levels and lead times to identify bottlenecks in the supply chain and recommend strategies for improvement.
+Assessed the impact of shipping carriers and transportation modes on overall costs and delivery efficiency.
+Provided insights on defect rates and inspection results to enhance product quality control processes.
+This project not only sharpened my analytical skills but also deepened my understanding of the complexities involved in supply chain management within the beauty industry. I look forward to leveraging these insights in future projects and discussions.
